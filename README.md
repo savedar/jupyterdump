@@ -1,1 +1,1 @@
-# jupyterdump
+Drop an learning Python
